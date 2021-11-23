@@ -1,16 +1,31 @@
-### Hi there 👋
+----------------------------------------------------------------------------
 
-<!--
-**GuilhermeReis94/GuilhermeReis94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Saudações!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu nome é Guilherme!
+
+ 
+
+:computer: Atualmente trabalho como analista de suporte técnico!
+
+:house_with_garden: Sou do Brasil.
+
+:books: Graduando bacharelado em sistemas de informação.
+
+:outbox_tray: Objetivos para 2022: me superar em relação ao último ano.
+
+ 
+
+## Sobre mim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeReis94/GuilhermeReis94)](https://github.com/GuilhermeReis94/GuilhermeReis94)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/guilherme-reis-3546961a9/)](https://www.linkedin.com/in/guilherme-reis-3546961a9/)
+
+
+
+- Obrigado pela visita!
+
+----------------------------------------------------------------------------------
