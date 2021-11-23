@@ -20,7 +20,6 @@
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeReis94/GuilhermeReis94)](https://github.com/GuilhermeReis94/GuilhermeReis94)
 
 <a href="https://www.linkedin.com/in/guilherme-reis-3546961a9/" alt="linkedin" target="_blank">
 
