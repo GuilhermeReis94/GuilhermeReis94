@@ -22,7 +22,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeReis94/GuilhermeReis94)](https://github.com/GuilhermeReis94/GuilhermeReis94)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/guilherme-reis-3546961a9/)]( https://www.linkedin.com/in/guilherme-reis-3546961a9/)
+<a href="https://www.linkedin.com/in/guilherme-reis-3546961a9/" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
 
 
 
