@@ -26,11 +26,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
-<a href="https://wa.me/<19991113699>" alt="WhatsApp" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5519991113699>" alt="WhatsApp" target="_blank">
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
 
 </a>
+
 
 
 
