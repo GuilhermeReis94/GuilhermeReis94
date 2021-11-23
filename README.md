@@ -16,9 +16,13 @@
 
 :outbox_tray: Objetivos para 2022: me superar em relação ao último ano.
 
- 
 
-## Sobre mim
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeReis94&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeReis94&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+## Entre em contato
 
 
 <a href="https://www.linkedin.com/in/guilherme-reis-3546961a9/" alt="linkedin" target="_blank">
@@ -31,10 +35,5 @@
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
 
 </a>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeReis94&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeReis94&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ----------------------------------------------------------------------------------
