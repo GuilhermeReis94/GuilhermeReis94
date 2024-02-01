@@ -8,13 +8,13 @@
 
  
 
-:computer: Atualmente trabalho como analista de suporte técnico!
+:computer: Atualmente trabalho como analista de sistemas!
 
 :house_with_garden: Sou do Brasil.
 
-:books: Graduando bacharelado em sistemas de informação.
+:books: Bacharel em sistemas de informação.
 
-:outbox_tray: Objetivos para 2022: me superar em relação ao último ano.
+:outbox_tray: Objetivos para 2024: me superar em relação ao último ano.
 
 
 
